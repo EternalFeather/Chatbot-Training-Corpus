@@ -24,7 +24,7 @@ ChatterBot聊天引擎所提供的基本语聊，涵盖语种范围广，但是�
 + [Cornell_Movie-Dialogs_Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 康奈尔大学影视对话资料集，语料包含对话人名称信息，语料为英文，以多轮对话为主。
 
-# 个人爬取语聊（初步整理）
+# 个人爬取语料（初步整理）
 
 + [中文新闻语料](https://github.com/EternalFeather/Chatbot-Training-Corpus/tree/master/news%20corpus)
 利用爬虫从各大新闻网站上爬取的新闻头条和简讯。
