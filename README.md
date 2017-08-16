@@ -30,7 +30,7 @@ ChatterBot聊天引擎所提供的基本语聊，涵盖语种范围广，但是�
 利用爬虫从各大新闻网站上爬取的新闻头条和简讯。
 
 + [PTT八卦版推文](https://github.com/EternalFeather/Chatbot-Training-Corpus/tree/master/PTT_charactors)
-利用爬虫从社交软体PTT上对于八卦分类板块的内容进行爬取，原始资料为 [PTT八卦板推文.txt]() 其中包括一些符号和空格杂讯，过滤杂讯（利用统计方式按比例替换成固定符号，降低资料复杂度）之后，通过 **单字** 或 [词组](https://github.com/EternalFeather/Chatbot-Training-Corpus/tree/master/PTT_words)（jieba段词） 等不同方式建立问答语料和字典。
+利用爬虫从社交软体PTT上对于八卦分类板块的内容进行爬取，原始资料为 [PTT八卦板推文.txt](https://github.com/EternalFeather/Chatbot-Training-Corpus/blob/master/PTT%E5%85%AB%E5%8D%A6%E6%9D%BF%E6%8E%A8%E6%96%87.txt) 其中包括一些符号和空格杂讯，过滤杂讯（利用统计方式按比例替换成固定符号，降低资料复杂度）之后，通过 **单字** 或 [词组](https://github.com/EternalFeather/Chatbot-Training-Corpus/tree/master/PTT_words)（jieba段词） 等不同方式建立问答语料和字典。
 
 # License:
 
