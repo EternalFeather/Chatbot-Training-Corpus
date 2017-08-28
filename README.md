@@ -8,6 +8,7 @@ Dialog Datasets for Training Chatbot
 
 + [dgk_shooter_min.conv](https://github.com/rustch3n/dgk_lost_conv)
 中文电影对白语料，噪音大，由于对话未区分说话人，因此对白问答关系难以对应。
+
 **针对聊天机器人语料的处理：** [data_preprocessing](https://github.com/EternalFeather/Chatbot-Training-Corpus/blob/master/data_preprocessing.py)
 
 + [ChatBot多语种聊天语料](https://github.com/gunthercox/chatterbot-corpus/tree/master/chatterbot_corpus/data/)
