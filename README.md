@@ -27,7 +27,11 @@ A Chinese Q-A pairs dataset (由白鹭时代官方论坛问答版块的问题及
 + [Cornell_Movie-Dialogs_Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 Cornell movie dialogue corpus (康奈尔大学影视对话资料集，语料包含对话人名称信息，语料为英文，以多轮对话为主。)
 
-+ 
++ [Chinese Quatrains Corpus](https://github.com/EternalFeather/Chatbot-Training-Corpus/tree/master/Obama_political_speeches)
+Chinese quatrains corpus with length five (中文古文五言绝句)
+
++ [Obama Political Speeches Corpus](https://github.com/EternalFeather/Chatbot-Training-Corpus/tree/master/Obama_political_speeches)
+Obama political speeches corpus (奥巴马总统政治演讲节选台词)
 
 # From Crawler 个人爬取语料（初步整理）
 
